@@ -1,0 +1,23 @@
+{
+  "name": "threejs-ts-template",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+      "dev": "vite",
+      "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lil-gui": "^0.19.2",
+    "three": "^0.171.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.3",
+    "vite-plugin-restart": "^0.4.1"
+  }
+}
